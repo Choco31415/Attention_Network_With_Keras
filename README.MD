@@ -1,7 +1,7 @@
 ## Description
 This is a ready-to-run example of an attention network. All attention network code is contained underneath Section "Model" of the Attention Network ipython notebook.
 
-For a tutorial on Attention Networks, see MuffinTech.
+For a tutorial on Attention Networks, see [MuffinTech](http://muffintech.org/blog/id/12).
 
 ## Requirements
 
