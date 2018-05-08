@@ -5,12 +5,7 @@ For a tutorial on Attention Networks, see [MuffinTech](http://muffintech.org/blo
 
 ## Requirements
 
-* Python3
-* Jupyter Notebook
-* Tensorflow 1.5
-    * Keras
-* matplotlib
-* numpy
+Run `pip install -r requirements.txt` to install requirements. The project requires python 3.
 
 ## Contributing
 If there are any improvements or broken links, feel free to create a PR and email me.

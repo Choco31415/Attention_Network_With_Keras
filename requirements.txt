@@ -1,0 +1,4 @@
+Keras>=2.1.6
+numpy
+matplotlib
+jupyter
