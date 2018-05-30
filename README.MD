@@ -8,4 +8,4 @@ For a tutorial on Attention Networks, see [MuffinTech](http://muffintech.org/blo
 Run `pip install -r requirements.txt` to install requirements. The project requires python 3.
 
 ## Contributing
-If there are any improvements or broken links, feel free to create a PR and email me.
+If there are any improvements or broken links, feel free to create a PR. (Email for quick reponses.)
